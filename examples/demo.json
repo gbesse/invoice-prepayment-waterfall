@@ -1,0 +1,14 @@
+{
+  "invoice_total": "100.00",
+  "currency": "EUR",
+  "prepayments": [
+    {
+      "id": "p1",
+      "amount": "30.00"
+    },
+    {
+      "id": "p2",
+      "amount": "80.00"
+    }
+  ]
+}

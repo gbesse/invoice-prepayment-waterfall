@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Réconcilier acomptes soldes et arrondis en décimal exact', 'en': 'Reconcile prepayments balances and exact decimal rounding', 'es': 'Conciliar anticipos saldos y redondeos decimales exactos'}
